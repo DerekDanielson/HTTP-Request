@@ -4,3 +4,12 @@
 
 // the response could be HTML, CSS, JS files, images and other resources as well as data formatted as JSON or XML
 
+
+// ***** HTTP Methods *****
+/*
+GET request ---- Fetch/retrieve data from the server
+POST request --- Send data to the server
+PUT & PATCH request ---- Update data on a server
+DELETE request ---- Delete data from a server
+*/
+
